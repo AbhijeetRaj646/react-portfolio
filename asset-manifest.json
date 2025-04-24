@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.04571fb6.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.522f1732.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.522f1732.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.339c5bcb.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.f4707574.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.f4707574.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.b3c2a4d8.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.b3c2a4d8.js.map",
-    "static/css/2.9f1b6e79.chunk.css": "/react-portfolio/static/css/2.9f1b6e79.chunk.css",
-    "static/js/2.1cea0449.chunk.js": "/react-portfolio/static/js/2.1cea0449.chunk.js",
-    "static/js/2.1cea0449.chunk.js.map": "/react-portfolio/static/js/2.1cea0449.chunk.js.map",
+    "static/css/2.2280284b.chunk.css": "/react-portfolio/static/css/2.2280284b.chunk.css",
+    "static/js/2.685f0b38.chunk.js": "/react-portfolio/static/js/2.685f0b38.chunk.js",
+    "static/js/2.685f0b38.chunk.js.map": "/react-portfolio/static/js/2.685f0b38.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "static/css/2.9f1b6e79.chunk.css.map": "/react-portfolio/static/css/2.9f1b6e79.chunk.css.map",
-    "static/css/main.04571fb6.chunk.css.map": "/react-portfolio/static/css/main.04571fb6.chunk.css.map",
-    "static/js/2.1cea0449.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1cea0449.chunk.js.LICENSE.txt",
+    "static/css/2.2280284b.chunk.css.map": "/react-portfolio/static/css/2.2280284b.chunk.css.map",
+    "static/css/main.339c5bcb.chunk.css.map": "/react-portfolio/static/css/main.339c5bcb.chunk.css.map",
+    "static/js/2.685f0b38.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.685f0b38.chunk.js.LICENSE.txt",
     "static/media/Sunil_Resume.168faf28.pdf": "/react-portfolio/static/media/Sunil_Resume.168faf28.pdf",
     "static/media/coast.54b1b992.jpg": "/react-portfolio/static/media/coast.54b1b992.jpg",
     "static/media/cosmos.19ad0934.jpg": "/react-portfolio/static/media/cosmos.19ad0934.jpg",
@@ -25,9 +25,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.b3c2a4d8.js",
-    "static/css/2.9f1b6e79.chunk.css",
-    "static/js/2.1cea0449.chunk.js",
-    "static/css/main.04571fb6.chunk.css",
-    "static/js/main.522f1732.chunk.js"
+    "static/css/2.2280284b.chunk.css",
+    "static/js/2.685f0b38.chunk.js",
+    "static/css/main.339c5bcb.chunk.css",
+    "static/js/main.f4707574.chunk.js"
   ]
 }
